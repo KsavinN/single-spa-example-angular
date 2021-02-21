@@ -130,5 +130,8 @@
       }
     }
   },
-  "defaultProject": "single-spa-poc-angular"
+  "defaultProject": "single-spa-poc-angular",
+  "cli": {
+    "analytics": "c3ffa496-e90b-4d87-b954-6ef5e5823507"
+  }
 }
